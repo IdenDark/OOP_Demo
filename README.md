@@ -1,18 +1,23 @@
-## Getting Started
+# **MyJavaApp**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Here is a simple Java console-based application demonstrating Object-Oriented Programming (OOP) principles with Java.
 
-## Folder Structure
+## **Features**
 
-The workspace contains two folders by default, where:
+- Register a new vehicle
+- View registered vehicles
+- Calculate tax for all vehicles
+- Generate tax reports
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## **Prerequisite to run this.**
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java Runtime Environment (JRE) installed or download it here https://www.java.com/en/download/manual.jsp
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Run the App
 
-## Dependency Management
+Download the latest `.jar` from the [Releases](https://github.com/IdenDark/OOP_Demo/releases) section.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+```bash
+#In the same directory of the downloaded MyJavaApp.jar, run this.
+java -jar MyJavaApp.jar
+```
